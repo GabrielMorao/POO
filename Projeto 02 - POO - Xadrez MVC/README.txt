@@ -1,0 +1,2 @@
+﻿A implementação do projeto 02 ocorreu em IDE NetBeans, parte na em versão 8.2 e parte em versão 10.0, ambas em S.O Windows. O código não foi testado em outras IDE's ou S.O's.
+Para evitar possíveis problemas de compilação, recomenda-se seguir o mesmo padrão de IDE e S.O.
